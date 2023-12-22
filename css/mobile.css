@@ -1,4 +1,4 @@
-@media (max-width: 320px) {
+@media (max-width: 1080px) {
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
     .header{
       height: 42px;
