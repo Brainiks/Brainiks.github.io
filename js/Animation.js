@@ -1,5 +1,5 @@
-let blinkTextMenuLinks = document.querySelectorAll(".blink-text-menu li a");
-blinkTextMenuLinks.forEach(link => {
+let blinkTextMenLinks = document.querySelectorAll(".blink-text-men li a");
+blinkTextMenLinks.forEach(link => {
 let letters = link.textContent.split(".");
 link.textContent = "";
 letters.forEach((letter, i) => {

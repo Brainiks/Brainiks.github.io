@@ -210,27 +210,27 @@
     }
     .photos{
       width: 1280px;
-      height: 1200px;
+      height: 300px;
       position: static;
       
     }
     .car{
       object-fit: scale-down;
       display: inline-flex;
-      width: 500px;
+      width: 125px;
       position: static;
     }
     .meat{
       object-fit: scale-down;
       display: inline-flex;
-      width: 500px;
+      width: 125px;
       position: static;
-      margin-left: 80px;
+      margin-left: 20px;
     }
     .health{
       padding-top: 50px;
       color: white;
-      font-size: 48px;
+      font-size: 12px;
       text-align: center;
     }
     .border_health{
@@ -238,12 +238,12 @@
       border: 3px solid;
       border-color: #fff;
       border-radius: 30px;
-      width: 500px;
-      height: 400px;
+      width: 125px;
+      height: 100px;
     }
     .taste{
       color: white;
-      font-size: 48px;
+      font-size: 12px;
       text-align: center;
     }
     .border_taste{
@@ -251,31 +251,31 @@
       border: 3px solid;
       border-color: #fff;
       border-radius: 30px;
-      width: 500px;
-      height: 400px;
+      width: 125px;
+      height: 100px;
     }
     .health_div{
       margin-top: 50px;
       display: flex;
-      width: 1280px;
+      width: 320px;
       overflow: hidden;
       border: 5px;
       position: static;
-      margin-left: 240px;
+      margin-left: 60px;
       
     }
     .taste_div{
       flex-shrink: 0;
-      padding-top: 100px;
-      width: 1280px;
+      padding-top: 25px;
+      width: 320px;
       display: flex;
       position:static;
-      margin-left: 240px;
+      margin-left: 60px;
     }
     .goods{
       text-align: center;
       color: white;
-      font-size: 64px;
+      font-size: 16px;
     }
     .fruit{
       width: 50%;
@@ -333,65 +333,66 @@
     }
     .signature{
       padding-left: 60px;
-      font-size: 48px;
+      font-size: 12px;
     }
     .signature_beef{
-      padding-top: 30px;
-      font-size: 48px;
-      padding-left: 35px;
+      padding-top: 8px;
+      font-size: 12px;
+      padding-left: 9px;
     }
     .signature_birds{
-      font-size: 48px;
-      padding-left: 65px;
+      font-size: 12px;
+      padding-left: 16px;
     }
     /*....................Partnership.........................*/
     .company{
-      margin-left: 320px;
+      margin-left: 80px;
       display: grid;
       grid-template-columns: 50% 50%;
       grid-template-rows: 50% 50%;
     }
     .partner{
       color: #fff;
-      font-size: 48px;
+      font-size: 12px;
     }
     .sber{
-      margin-top: 50px;
+      margin-top: 13px;
       width: 50%;
     }
     .franklin{
-      padding-left: 620px;
+      padding-left: 155px;
       width: 50%;
     }
     .line{
       color: #fff;
-      width: 920px;
-      margin-left: 320px;
+      width: 230px;
+      margin-left: 80px;
       text-align: center;
     }
     .partner_text{
-      font-size: 48px;
+      font-size: 12px;
       color: #fff;
       text-align: left;
-      margin-left: 320px;
+      margin-left: 80px;
     }
     .down{
-      margin-top: 100px;
-      padding-left: 205px;
-      
+      margin-top: 50px;
+      padding-left: 51px;
+      width: 320px;
+      margin: auto;
       background-color: gray;
     }
     .down_logo{
-      height: 100px;
-      margin-bottom: 38px;
+      height: 25px;
+      margin-bottom: 10px;
     }
     .ground{
       width: 60%;
-      margin-left: 320px;
+      margin-left: 80px;
     }
     .carry{
       width: 65%;
-      margin-left: 320px;
+      margin-left: 80px;
     }
     .blink-text-men {
       display: inline-block;
@@ -402,7 +403,7 @@
       position: relative;
       display: inline-flex;
       padding: 6px;
-      font-size: 24px;
+      font-size: 6px;
       color: white;
       font-family: Lato, sans-serif;
       text-decoration: none;
@@ -432,25 +433,29 @@
     .nav_down{
       display: table;
       position: static;
-      padding-bottom: 40px;
+      padding-bottom: 10px;
     }
     .down_head{
       display: inline-block; 
     }
     .right{
-      padding-right: 100px;
+      padding-right: 25px;
     }
     .vk{
-      margin-bottom: 24px;
+      height: 25%;
+      margin-bottom: 6px;
+    }
+    .x{
+      height: 25%;
     }
     .adres{
-      margin-left: 320px;
-      max-width: 1000px;
+      margin-left: 80px;
+      max-width: 250px;
       text-align: center;
       color: #fff;
-      font-size: 48px;
+      font-size: 12px;
     }
     .map{
-      margin-left: 320px;
+      margin-left: 80px;
     }
 }

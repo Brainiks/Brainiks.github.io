@@ -394,7 +394,7 @@ a{
   margin-left: 320px;
 }
 .blink-text-men {
-  display: table;
+  display: inline-block;
   /* flex-direction: column; */
   list-style-type: none;
 }
@@ -452,18 +452,4 @@ a{
 }
 .map{
   margin-left: 320px;
-}
-@media only screen and (max-width: 320px) {
-  .up {
-    padding-left: 5px; /* Изменения для мобильных устройств */
-  }
-
-  .logo {
-    padding-top: 15px; /* Изменения для мобильных устройств */
-  }
-
-  .nav_head {
-    padding-left: 5px; /* Изменения для мобильных устройств */
-    padding-top: 20px; /* Изменения для мобильных устройств */
-  }
 }
