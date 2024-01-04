@@ -33,11 +33,11 @@
     }
     .logo{
       display: inline-block;
-      height: 25px;
-      padding-top: 6px;
+      height: 30px;
+      padding-top: 2px;
     }
     .logotip{
-      height: 16px;
+      height: 23px;
     }
     a{
         text-decoration: none;
@@ -393,14 +393,15 @@
     }
     .down{
       margin-top: 57px;
-      padding-left: 25px;
+      padding-left: 0px;
       width: 380px;
       height: 100px;
       
       background-color: gray;
     }
     .down_logo{
-      height: 25px;
+      padding-left: 30px;
+      height: 23px;
       padding-top: 10px;
     }
     .ground{
